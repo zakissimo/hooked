@@ -9,7 +9,7 @@ M.default = {
     width = 51,
     height = 7,
     prefix = ">",
-    name = " Hook ",
+    name = " Hooked ",
     suffix = "[+]",
 }
 
